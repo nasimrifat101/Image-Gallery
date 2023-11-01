@@ -28,7 +28,7 @@ To run the Image Gallery locally, follow these steps:
 
 ## Live Demo
 
-Check out the live demo of the Image Gallery at [Live Demo URL](insert-live-demo-url-here).
+Check out the live demo of the Image Gallery at [Live Demo URL](http://my-image-galary-reacts.surge.sh/).
 
 ## Technologies Used
 
