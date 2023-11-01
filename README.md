@@ -40,6 +40,3 @@ Check out the live demo of the Image Gallery at [Live Demo URL](insert-live-demo
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
